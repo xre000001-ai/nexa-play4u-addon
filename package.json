@@ -1,0 +1,11 @@
+{
+  "name": "play4u-addon",
+  "version": "3.5.6",
+  "main": "p4u-addon.js",
+  "scripts": {
+    "start": "node --max-old-space-size=256 p4u-addon.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,1 @@
+{ "healthchecks": { "web": [ { "type": "startup", "name": "web check", "path": "/_health", "initialDelay": 5, "period": 5, "timeout": 30, "attempts": 12 } ] } }
